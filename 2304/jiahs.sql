@@ -1,6 +1,6 @@
-nihao a  xianzai woxuyao  vscode 
-\w \
+gbasexianzai woxuyao vscode \ w \ gengxin
+select *
+from dual
+where 1 = 1;
 
-gengxin
 
-select * from dual;
