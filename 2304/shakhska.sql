@@ -1,1 +1,3 @@
 asdf
+
+select * from dual;
